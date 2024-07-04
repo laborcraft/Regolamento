@@ -1,136 +1,149 @@
 {
-  "version": "2.6",
-  "date": "1 Luglio 2022",
+  "version": "3.0.0.0",
+  "date": "4 Luglio 2024",
   "sections": [
     {
-      "title": "Introduzione",
-      "introduction": "Il seguente testo raggruppa tutte le regole applicate ai vari servizi emessi e gestiti dal collettivo Laborcraft",
-      "rules": {
-        "MODIFICA DEL REGOLAMENTO": "Questo documento può essere modificato solo dallo Staff amministrativo, previa discussione interna che abbia interrogato tutte le parti. È possibile discuterne con il resto dello Staff, che può anche proporre modifiche. Questo documento può subire variazioni e cambiamenti in qualunque momento senza preavviso."
-      }
-    },
-    {
-      "title": "Sezione Generale",
+      "title": "GENERALE",
       "introduction": "La seguente sezione si applica su tutti i servizi gestiti dal collettivo Laborcraft, salvo dove diversamente esplicitato.",
       "rules": {
-        "IGNORANTIA LEGIS NON EXCUSAT": "La legge non scusa gli ignoranti. La mancata lettura o comprensione del seguente testo non può essere utilizzata come scusa nel caso di infrazione degli articoli in esso contenuti.",
+        "IGNORANTIA LEGIS NON EXCUSAT": "La legge non scusa gli ignoranti. La mancata lettura o comprensione di questo testo non può essere utilizzata come scusa nel caso di infrazione.",
+        "INTERPRETABILITÀ": "Non saranno tollerate libere interpretazioni del regolamento. Esse sono competenza dell'amministrazione.",
+        "DEROGA": "L'amministrazione si riserva il diritto di prendere decisioni indipendentemente dal contenuto di questo documento.",
         "RESPONSABILITÀ": "È responsabilità del relativo proprietario ogni azione legata ad un account.",
-        "INTERPRETABILITÀ": "Non saranno tollerate libere interpretazioni del regolamento al di fuori dello spirito delle norme. (Se si hanno dubbi, rivolgersi sempre ad un amministratore)",
-        "COMMUNITY": "Ogni atteggiamento tossico all’interno della community non sarà tollerato. Deve essere mantenuto il rispetto tra tutti i giocatori. Non saranno tollerati atteggiamenti importuni, bullismo, molestie (sessuali e non, specialmente verso minori), nonnismo, discriminazione o qualsiasi altro comportamento tossico o inopportuno, all’interno o all’esterno delle piattaforme gestite dal collettivo Laborcraft.",
-        "VOLGARITÀ": "Sono vietati bestemmie, volgarità, insulti, offese, spam, flood e abuso del CAPS (scrivere tutto in maiuscolo). Sono tollerate alcune imprecazioni in chat, ma con moderazione, e senza alcun riferimento religioso. Le esagerazioni non saranno tollerate, e i moderatori definiranno i limiti. Fanno eccezione messaggi e chat privati, ove, con il consenso dell'interlocutore, è tollerato l'uso di volgarità ed insulti (giocosi, tra amici) ad esclusione di etichette denigratorie (sessiste, razziste...). Un reclamo dell'interlocutore, tuttavia, sarà prova del mancato consenso.  È severamente proibito rappresentare in qualsiasi modo (nickname compreso) simboli che siano offensivi, inappropriati, controversi o espressione d'odio, siano essi di carattere politico, religioso, sessuale o altro. È vietato l’invio di qualsiasi immagine, documento o link contenente materiale che lede la pubblica decenza (immagini per adulti, volgari, cruente…).",
-        "POLITICA, RELIGIONE, FILOSOFIA": "Discussioni e riferimenti di carattere politico, religioso e filosofico devono essere inoffensivi e non controversi",
-        "PRIVACY": "È vietato divulgare informazioni e materiali personali di altri giocatori senza il loro esplicito e inconfutabile consenso.",
-        "IMPERSONAZIONE": "È vietato impersonare membri dello staff o altri giocatori, in qualunque modo.",
+        "AMMISSIONE DI COLPA": "Un'ammissione di colpa potrà essere utilizzata come tale indipendentemente dalla sua forma.",
         "CALUNNIA": "Chiunque incolpi un giocatore o simuli le tracce di una violazione del regolamento nella consapevolezza dell’innocenza di questo verrà severamente punito.",
-        "FALSA TESTIMONIANZA": "Chiunque affermi il falso, neghi il vero o taccia, in toto o parzialmente, riguardo le sue conoscenze circa i fatti sui quali è interrogato, verrà punito.",
-        "INGANNO": "È vietato ingannare altri utenti (se non diversamente specificato, ai soli fini del gioco).",
-        "ABUSO DI POTERE": "Non è consentito richiedere ad un membro dello staff di utilizzare i propri poteri al fine di avvantaggiare o svantaggiare un giocatore.",
-        "EVASIONE DELLE PENE": "È vietato l’utilizzo di altri account o VPN allo scopo di evitare una penalità ricevuta per aver infranto il regolamento.",
+        "FALSA TESTIMONIANZA": "Chiunque affermi il falso, neghi il vero o compia omissioni, in toto o parzialmente, riguardo le sue conoscenze circa i fatti sui quali è interrogato, verrà punito.",
+        "IMPERSONAZIONE": "È vietato impersonare membri dello staff o altri giocatori, in qualunque modo.",
+        "PRIVACY": "È vietato divulgare informazioni e materiali personali di altri utenti senza il loro esplicito e inconfutabile consenso.",
+        "COMMUNITY": "Ogni utente deve seguire le norme di convivenza comune e mantenere un comportamento consono. Non saranno tollerati atteggiamenti tossici o inopportuni di alcun tipo, tra cui: bullismo, molestie (sessuali e non, specialmente verso minori), nonnismo, discriminazione; all’interno e all’esterno delle piattaforme gestite dal collettivo Laborcraft.",
+        "TUTELA DEL GIOCO": "Non sono consentiti comportamenti e stili di gioco che possono danneggiare l'esperienza di gioco altrui.",
+		"GIOCO SCORRETTO": "Qualsiasi tentativo di avvantaggiarsi in maniera illecita verrà punito.",
         "ACCOUNT MULTIPLI": "È vietato l’utilizzo di account multipli allo scopo di avvantaggiarsi.",
-        "SPAM": "È vietato l’invio di link, immagini, video o qualunque altro tipo di contenuto multimediale promozionale ad altri utenti con lo scopo di fare pubblicità a servizi esterni e concorrenti a Laborcraft.",
-        "CLIENT MODIFICATI": "Non è consentito l’utilizzo dei servizi gestiti dal collettivo Laborcraft tramite l’uso di software modificato appositamente con lo scopo di recare danni all’infrastruttura o ad altri utenti o per avvantaggiarsi.",
-        "BUG E VULNERABILITÀ": "È vietato lo sfruttamento di bug e vulnerabilità presenti nell’infrastruttura informatica e nell’organizzazione del collettivo Laborcraft ed è obbligatorio segnalarli in caso in cui se ne venisse a conoscenza.",
-        "COMPORTAMENTI NOCIVI": "È vietato qualsiasi comportamento che potrebbe danneggiare l'esperienza di gioco di altri utenti (compresi alcuni stili di gioco) o arrecare danni all'infrastruttura informatica.",
-        "DEROGA": "Lo Staff amministrativo si riserva la possibilità di prendere decisioni indipendentemente dal contenuto di questo documento."
+        "INGANNO": "È vietato ingannare altri utenti (se non diversamente specificato, ai soli fini del gioco).",
+        "VOLGARITÀ": "Sono vietati <b>bestemmie</b>, volgarità, insulti, offese, spam, flood e abuso del CAPS (scrivere tutto in maiuscolo). È tollerato un <b>moderato</b> uso di imprecazioni in chat, ma senza riferimenti religiosi.\n\nNelle chat private, con il consenso dei partecipanti, è tollerato l'uso di volgarità ed insulti (giocosi, tra amici) ad esclusione di etichette denigratorie (sessiste, razziste...) e riferimenti religiosi. Tuttavia, ogni reclamo verrà sempre considerato legittimo.\n\nÈ severamente proibito rappresentare in qualsiasi modo simboli offensivi, inappropriati, controversi o espressione d'odio, siano essi di carattere politico, religioso, sessuale o altro. È vietato l’invio di qualsiasi immagine, documento o link contenente materiale ledente la pubblica decenza (immagini per adulti, volgari, cruente…).",
+        "NICKNAME E PROFILI": "Nickname, immagini profilo, descrizione dei canali, biografie, stati e tutto ciò che è visibile sulle piattaforme gestite dal collettivo Laborcraft deve seguire il regolamento del server.",
+        "POLITICA, RELIGIONE, FILOSOFIA": "Discussioni e riferimenti di carattere politico, religioso e filosofico devono essere inoffensivi e non controversi.",
+        "SPAM": "È vietato l’invio di link, immagini, video o qualunque altro tipo di contenuto multimediale con lo scopo di promuovere servizi esterni e/o concorrenti a Laborcraft.",
+        "ABUSO DI POTERE": "Non è consentito richiedere ad un membro dello staff di utilizzare i propri poteri al fine di avvantaggiare o svantaggiare un giocatore.",
+        "DANNI": "Qualsiasi tentativo, indipendentemente dai mezzi e dall'intenzione, di arrecare danno a utenti, all'esperienza di gioco, all'infrastruttura, all'integrità dello staff o della community e ogni altro tipo di azione lesiva verso il collettivo Laborcraft saranno puniti severamente, se necessario anche per vie legali.",
+        "BUG E VULNERABILITÀ": "È vietato lo sfruttamento di bug e vulnerabilità presenti nell’infrastruttura informatica e nell’organizzazione del collettivo Laborcraft ed è obbligatorio segnalarli nel caso in cui se ne venisse a conoscenza.",
+        "REVERSE ENGINEERING, BLACK/WHITE HAT": "È severamente proibito ogni tentativo di reverse engineering, accesso a credenziali, dati, portali, zone e informazioni riservate. I white hat sono apprezzati, ma devono poter dimostrare di essere tali, possibilmente rendendo note a priori le loro intenzioni.",
+        "EVASIONE DELLE PENE": "È vietato tentare di aggirare una penalità ricevuta per aver infranto il regolamento, ad esempio attraverso l’utilizzo di altri account o VPN."
       }
     },
     {
-      "title": "Regolamento del Server",
-      "introduction": "Tutti gli articoli contenuti in questa parte sono validi all’interno del server Minecraft gestito dal collettivo Laborcraft, salvo dove diversamente esplicitato, ed espandono il regolamento generale.",
-      "rules": {
-        "MOD CONSENTITE": "È consentito l’utilizzo di modifiche del client a condizione che queste non siano atte ad avvantaggiare l’utente (trucchi, hack, mod, texture xray, dupe...), danneggiare l’esperienza di gioco ad altri utenti, accedere a dati e informazioni riservate o effettuare il download di mappe di gioco. Se si hanno dubbi sulla legittimità di una mod, contattare lo staff."
-      }
-    },
-    {
-      "title": "Regolamento del Survival",
+      "title": "SURVIVAL",
       "introduction": "Tutti gli articoli contenuti in questa sezione sono validi all’interno della modalità Survival appartenente al Server Minecraft gestito dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
-        "GRIEF, FURTO, COSTRUZIONE": "È vietato prendere possesso, modificare, danneggiare e distruggere strutture costruite da altri giocatori e rubare item ed entità presenti all’interno di esse. È inoltre proibito costruire, modificare e rompere blocchi in un raggio di 300 blocchi da un'altra costruzione senza la esplicita e scritta autorizzazione del proprietario. È vietato l’uso eccessivo e superfluo di cornici ( item frame )",
-        "DETURPAZIONE": "Ogni struttura nei pressi dello Spawn e dei warp deve essere decorosa. È vietato ovunque piazzare blocchi senza uno scopo (torri 1x1, flussi d'acqua, ecc.), deturpare l'ambiente e uccidere villici senza una ragione. Quando si fa legna non lasciare tronchi e ripiantare l'albero.",
-        "FARM": "Farm basate su Spawner devono utilizzarne al massimo 6. La distanza tra due farm di qualsiasi genere deve essere almeno di 64 blocchi, partendo dal bordo. Le farm non estensive, cioè quelle per le quali sono necessari un ammontare ristretto di componenti attivi ( distributori, pistoni, ecc… ) possono essere raggruppate in un’estensione massima di 32x32, ma non in verticale e, comunque, distanti da altre farm ( esempio la farm semiautomatica per lichene o la farm semiautomatica per calcestruzzo ). Le farm semiautomatiche ma di grande espansione d’area devono rispettare la regola dei 64 blocchi di distanza da altre ( esempio campi di grano con tramogge, distributori, gettatori, redstone ). Le farm multi-dimensionali non sono consentite. Sopra ogni hopper che non necessita di assorbire item dall’aria o da altri contenitori deve essere posizionato un composter.",
-        "MAGAZZINI AUTOMATICI": "I magazzini automatici con più di 16 ceste devono trovarsi in aree dedicate ad almeno 128 blocchi di distanza da zone caricate di frequente quali farm e case.",
-        "AFK": "È vietato l'utilizzo di congegni anti AFK allo scopo di non venir cacciati dal gioco. Un player AFK non può né eseguire azioni né essere in movimento. Le farm che vengono attivate dalla presenza di un giocatore AFK devono essere totalmente automatiche. Il farming automatico può essere sfruttato solamente dalle 00:00 alle 07:00.",
-        "PVP": "È vietato il PvP, fatta eccezione per l'arena e dove diversamente esplicitato. Il player che entra in queste aree lo fa a suo rischio e pericolo. È inoltre proibito qualsiasi tentativo di uccidere altri giocatori tramite effetti secondari ( lava, crepacci, trappole, ecc.).",
-        "PERIODO DI INATTIVITÀ": "Dopo 180 giorni di inattività, zone protette e le strutture possono essere acquisiti da altri player, previo reset del terreno. In caso in cui gli admin ritenessero che una struttura sia degna di essere salvata, verrà programmata un'asta pubblica. Gli oggetti di valore verranno rimossi.",
+        "GRIEF, FURTO, COSTRUZIONE": "È vietato prendere possesso, modificare, danneggiare o distruggere strutture, item, entità e ogni altro tipo di di proprietà altrui, anche se in stato di abbandono.\n\nÈ inoltre proibito costruire, modificare e rompere blocchi in un raggio di 300 blocchi da un'altra costruzione senza la esplicita e scritta autorizzazione del proprietario.",
+        "INATTIVITÀ": "Dopo 180 giorni di inattività, zone protette e le strutture possono essere acquisiti da altri player, previo reset del terreno. Alcune strutture potranno essere messe all'asta. Gli oggetti di valore verranno rimossi.",
+        "DETURPAZIONE": "Ogni struttura nei pressi dello Spawn, dei warp e nell'isola principale dell'End deve essere decorosa. Ovunque è vietato deturpare l'ambiente, piazzare blocchi senza uno scopo (torri 1x1, flussi d'acqua, ecc.), e uccidere villici senza una ragione. Quando si fa legna non lasciare tronchi e ripiantare l'albero.",
+        "LAG": "È vietato costruire in maniera eccessivamente lesiva per le performance del server o per i client degli utenti (su un buon computer). Ad esempio farm esagerate o malcostruite, l’uso eccessivo e superfluo di tile-entities, entità e redstone.\nCostruzioni che non rispettano questi requisiti possono essere bloccate, modificate o distrutte dall'amministrazione. Lo staff può inoltre richiedere di non usare farm in certi momenti, spostare in Lobby se si è afk, e agire in caso di mancata collaborazione.",
+        "FARM E REDSTONE": "Farm basate su Spawner devono utilizzarne al massimo 6. La distanza tra due farm di qualsiasi genere deve essere almeno di 64 blocchi, partendo dal bordo.\n\nLe farm non estensive, cioè quelle per le quali sono necessari un ammontare ristretto di componenti attivi ( distributori, pistoni, ecc… ) possono essere raggruppate in un’estensione massima di 32x32, ma non in verticale e, comunque, distanti da altre farm (ad esempio la farm semiautomatica per lichene o la farm semiautomatica per calcestruzzo).\n\nLe farm semiautomatiche ma di grande volume devono rispettare la regola dei 64 blocchi di distanza da altre (ad esempio campi di grano con tramogge, distributori, gettatori, redstone).\n\nLe farm multi-dimensionali non sono consentite.\nSopra ogni hopper che non necessita di assorbire item dall’aria o da altri contenitori deve essere posizionato un blocco che blocchi questa possibilità.\n\nI magazzini automatici con più di 16 ceste devono trovarsi in aree dedicate ad almeno 128 blocchi di distanza da zone caricate di frequente quali farm e case.",
+        "AFK": "È vietato l'utilizzo di congegni anti-AFK allo scopo di non venir cacciati dal gioco. Un player AFK non può né eseguire azioni né essere in movimento. Le farm che vengono attivate dalla presenza di un giocatore AFK devono essere totalmente automatiche.",
+        "PVP": "È vietato il PvP, fatta eccezione di dove diversamente esplicitato. Il player che entra in queste aree lo fa a suo rischio e pericolo. È inoltre proibito qualsiasi tentativo di uccidere altri giocatori tramite effetti secondari (lava, crepacci, trappole, ecc.).",
         "CITTÀ": {
-          "article": "Il seguente articolo elenca tutte le regole che ogni città ufficialmente riconosciuta presente nella modalità Survival del Server Minecraft gestito dal collettivo Laborcraft deve rispettare.",
+          "article": "I seguenti articoli si applicano alle città ufficiali del Survival, cioè quelle fondate seguendo le indicazioni del bando delle città (consultabile sul forum o sulla wiki).",
           "points": {
-            "REQUISITI": "Per richiedere lo status di città, e approfittare di tutti i benefici che ne derivano, un aspirante sindaco può effettuare  richiesta ufficiale sul Forum, nell’apposita sezione, seguendo il relativo modulo, a patto di rispettare i requisiti ivi elencati. Per mantenere lo status di città e tutti i benefici che ne derivano il sindaco deve impegnarsi a mantenere aggiornato il post relativo alla propria città e continuare a rispettare i requisiti.",
+			"SINDACO": "Si può essere sindaci di una singola città.",
+			"CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
+			"ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
             "CONFINI E PROPRIETÀ": "L’estensione di una città è definita dai confini della zona protetta della città, che deve essere interamente di proprietà del sindaco. Il sindaco di una città ha giurisdizione solo ed esclusivamente su queste zone.",
-            "LEGGI E TASSE": "È consentita l'imposizione di leggi e tasse da parte di chi governa. Il mancato rispetto delle regole e pagamento delle tasse da parte di un cittadino è una motivazione sufficiente per l’espulsione. Le leggi devono soddisfare tre requisiti:\n • rientrare nel regolamento di Laborcraft\n • Essere approvate da un admin o superiore\n • Essere modificate massimo 1 volta a settimana",
-            "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici",
-            "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco tramite il comando /mail. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni, nel caso in cui questo non avvenga il sindaco può richiede allo staff di rimuovere eventuali contenitori e porte protetti. Le zone protette non sono rimovibili senza l’autorizzazione del proprietario.\nTutti i beni del giocatore dovranno essere restituiti ad esso, se ciò non dovesse essere possibile il sindaco dovrà conservare tutti gli oggetti nel deposito cittadino, che deve avere i requisiti descritti nel bando delle città.",
-            "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti richiesti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
-          }
-        },
-        "ECONOMIA": "È vietato modificare item per aggirare prezzi minimi e massimi."
-      }
-    },
-    {
-      "title": "Regolamento del Vanilla",
-      "introduction": "Tutti gli articoli contenuti in questa sezione sono validi all’interno della modalità Vanilla appartenente al Server Minecraft gestito dal collettivo Laborcraft.",
-      "rules": {
-        "GRIEF, FURTO, COSTRUZIONE": "È vietato prendere possesso, modificare, danneggiare e distruggere strutture costruite da altri giocatori e rubare item ed entità presenti all’interno di esse. È inoltre proibito costruire, modificare e rompere blocchi in un raggio di 200 blocchi da un'altra costruzione senza la esplicita e scritta autorizzazione del proprietario.",
-        "PROPRIETÀ ABBANDONATE": "Oltre i 180 giorni di inattività del proprietario di un bene, sarà possibile effettuare il reset della zona affinché possa essere affidata, su richiesta, ad altri player. Tale periodo potrebbe essere inferiore a 180 e superiore a 14 giorni in caso di costruzione presente in una città, al fine di poter permettere l’ampliamento della stessa. Gli item della proprietà verranno conservati nel magazzino cittadino; trascorso il periodo di 180 giorni si potrà provvedere al reset di tali ceste.",
-        "DETURPAZIONE": "Ogni struttura nei pressi dello Spawn e della ghiacciovia deve essere decorosa. È vietato piazzare blocchi senza uno scopo (torri 1x1, flussi d'acqua, ecc.), deturpare l'ambiente e uccidere villici senza una ragione. Quando si fa legna non lasciare tronchi e ripiantare l'albero.",
-        "FARM E REDSTONE": "Le farm multi-dimensionali non sono consentite. Sopra ogni hopper che non necessita di assorbire item dall’aria o da altri contenitori deve essere posizionato un composter.",
-        "PVP": "Sono proibiti il PvP e qualsiasi tentativo di uccidere altri giocatori tramite effetti secondari (lava, crepacci, trappole, ecc.). Fa eccezione il caso in cui ci sia consenso; tuttavia esso dev'essere chiaramente dimostrabile, diversamente non verrà considerato dallo staff.",
-        "CITTÀ": {
-          "article": "Il seguente articolo elenca tutte le regole che ogni città ufficialmente riconosciuta presente nella modalità Vanillla del Server Minecraft gestito dal collettivo Laborcraft deve rispettare.",
-          "points": {
-            "REQUISITI": "Per richiedere lo status di città, e approfittare di tutti i benefici che ne derivano, un aspirante sindaco può effettuare richiesta ufficiale sul Forum, nell’apposita sezione, seguendo il relativo modulo, a patto di rispettare i requisiti ivi elencati.\n Per mantenere lo status di città e tutti i benefici che ne derivano il sindaco deve impegnarsi a mantenere aggiornato il post relativo alla propria città e continuare a rispettare i requisiti.",
-            "CONFINI E PROPRIETÀ": "Il confine di una città deve essere delimitato da cartelli o muri per tutta l’area. I cartelli non possono distare dalla costruzione più vicina per più di 100 blocchi. Il sindaco di una città ha giurisdizione solo ed esclusivamente su queste zone.",
-            "LEGGI E TASSE": "È consentita l'imposizione di leggi e tasse da parte di chi governa. Il mancato rispetto delle regole e pagamento delle tasse da parte di un cittadino è una motivazione sufficiente per l’espulsione. Le leggi devono soddisfare tre requisiti:\n • Rientrare nel regolamento di Laborcraft.\n • Essere approvate da un admin o superiore.\n • Essere modificate massimo 1 volta a settimana.",
-            "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici",
-            "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco con un cartello e, se possibile, in chat. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni, nel caso in cui questo non avvenga il sindaco può procedere autonomamente. Tutti i beni del giocatore dovranno essere restituiti ad esso, se ciò non dovesse essere possibile il sindaco dovrà conservare tutti gli oggetti nel deposito cittadino, che deve avere i requisiti descritti nel bando delle città.",
-            "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti richiesti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
+			"ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
+			"COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
+            "LEGGI E TASSE": "Il sindaco può imporre leggi e tasse sui cittadini. Lo staff interviene solo se il regolamento del server è stato infranto, ma il mancato rispetto di queste è una motivazione sufficiente per l’espulsione dalla città. Le leggi devono:\n • rientrare nel regolamento di Laborcraft\n • essere modificate massimo una volta a settimana.\n • essere approvate da un admin o superiore (anche per modifiche)\n • essere elencate sul post di presentazione (fonte ufficiale) e nel municipio.",
+			"INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
+            "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici.",
+            "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco in qualsiasi maniera possibile, oppure utilizzare un cartello. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni; nel caso in cui questo non avvenga il sindaco può procedere autonomamente. Tutti i beni del giocatore dovranno essere restituiti al giocatore; se ciò non dovesse essere possibile dovranno essere conservati nel deposito cittadino.",
+            "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
           }
         }
       }
     },
     {
-      "title": "Regolamento del Creative",
+      "title": "VANILLA",
+      "introduction": "Tutti gli articoli contenuti in questa sezione sono validi all’interno della modalità Vanilla appartenente al Server Minecraft gestito dal collettivo Laborcraft ed espandono il regolamento generale.",
+      "rules": {
+        "GRIEF, FURTO, COSTRUZIONE": "All'interno di claim*:\n • è vietato l'impadronimento\n • è vietato il grief\n • è vietato il furto\n • è vietata ogni tipo di modifica\n\nIn un raggio di 300 blocchi da una costruzione claimata*:\n • è vietato l'impadronimento (non si può claimare)\n • è consentito il grief\n • è consentito il furto\n • sono consentite le modifiche (ma non la deturpazione)\n\nAl di fuori di questi casi tutti i fattori sopracitati sono consentiti.\n*senza la esplicita e verificabile autorizzazione del proprietario",
+        "INATTIVITÀ": "Dopo 180 giorni di inattività, zone il cui impadronimento non è consentito possono, su richiesta di terzi, essere riassegnate, eventualmente previo reset del terreno. Per le città questo periodo può essere differente.",
+        "DETURPAZIONE": "Ogni struttura nei pressi dello Spawn, della ghiacciovia e nell'isola principale dell'End deve essere decorosa. Ovunque è vietato deturpare l'ambiente, piazzare blocchi senza uno scopo (torri 1x1, flussi d'acqua, ecc.), e uccidere villici senza una ragione. Quando si fa legna non lasciare tronchi e ripiantare l'albero.",
+        "LAG": "È vietato costruire in maniera eccessivamente lesiva per le performance del server o per i client degli utenti (su un buon computer). Ad esempio farm esagerate o malcostruite, l’uso eccessivo e superfluo di tile-entities, entità e redstone.\nCostruzioni che non rispettano questi requisiti possono essere bloccate, modificate o distrutte dall'amministrazione. Lo staff può inoltre richiedere di non usare farm in certi momenti, spostare in Lobby se si è afk, e agire in caso di mancata collaborazione.",
+        "FARM E REDSTONE": "Sopra ogni hopper che non necessita di assorbire item dall’aria o da altri contenitori deve essere posizionato un blocco che blocchi questa possibilità.",
+        "AFK": "Un player AFK non può né eseguire azioni né essere in movimento. Le farm che vengono attivate dalla presenza di un giocatore AFK devono essere totalmente automatiche.",
+        "PVP": "Il PvP è consentito solo quando vi è consenso tra i giocatori, inclusi i tentatvi di uccidere altri giocatori tramite effetti secondari (lava, crepacci, trappole, ecc.). Esso dev'essere chiaramente dimostrabile, diversamente non verrà considerato dallo staff. Il player che attiva il pvp con /pvp se ne assume la responsabilità.",
+        "CITTÀ": {
+          "article": "I seguenti articoli si applicano alle città ufficiali del Vanilla, cioè quelle fondate seguendo le indicazioni del bando delle città (consultabile sul forum o sulla wiki).",
+          "points": {
+			"SINDACO": "Si può essere sindaci di una singola città.",
+			"CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
+			"ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
+            "CONFINI E PROPRIETÀ": "L’estensione di una città è definita dai confini della zona protetta della città, che deve essere interamente di proprietà del sindaco. Il sindaco di una città ha giurisdizione solo ed esclusivamente su queste zone.",
+			"ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
+			"COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
+            "LEGGI E TASSE": "Il sindaco può imporre leggi e tasse sui cittadini. Lo staff interviene solo se il regolamento del server è stato infranto, ma il mancato rispetto di queste è una motivazione sufficiente per l’espulsione dalla città. Le leggi devono:\n • rientrare nel regolamento di Laborcraft\n • essere modificate massimo una volta a settimana.\n • essere approvate da un admin o superiore (anche per modifiche)\n • essere elencate sul post di presentazione (fonte ufficiale) e nel municipio.",
+			"INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
+            "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici.",
+            "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco in qualsiasi maniera possibile, oppure utilizzare un cartello. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni; nel caso in cui questo non avvenga il sindaco può procedere autonomamente. Tutti i beni del giocatore dovranno essere restituiti al giocatore; se ciò non dovesse essere possibile dovranno essere conservati nel deposito cittadino.",
+            "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
+          }
+        }
+      }
+    },
+    {
+      "title": "CREATIVE",
       "introduction": "Tutti gli articoli contenuti in questa sezione sono validi all’interno della modalità Creative appartenente al Server Minecraft gestito dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
-        "ABUSO DI ENTITÀ E REDSTONE": "È proibito abusare delle entità, come animali e carrelli, e della Redstone.",
-        "GRIEF": "È vietato arrecare danni a strutture situate in lotti altrui.",
-        "RESPONSABILITÀ DEI LOTTI": "Ogni utente è direttamente responsabile di tutte le strutture costruite all’interno del suo lotto, anche se costruite da altri giocatori. Lo Staff non si assume alcuna responsabilità in caso di danni arrecati da giocatori trustati dal player"
+        "LAG": "È vietato costruire in maniera eccessivamente lesiva per le performance del server o per i client degli utenti (su un buon computer). Ad esempio l’uso eccessivo e superfluo di tile-entities, entità e redstone.\nCostruzioni che non rispettano questi requisiti possono essere bloccate, modificate o distrutte dall'amministrazione. Lo staff può agire in caso di mancata collaborazione",
+        "GRIEF": "È vietato arrecare danni a strutture situate in lotti altrui, indipendentemente dal costruttore. Di contro, il proprietario di un lotto ha completo controllo su di esso e può distruggere qualsiasi costruzione.",
+        "RESPONSABILITÀ DEI LOTTI": "Ogni utente è direttamente responsabile di chi trusta e di tutte le strutture presenti all’interno del suo lotto, anche se costruite da altri giocatori.",
+        "RIPRISTINO": "In caso di danni, ricevuti o causati, il ripristino del lotto non è garantito."
       }
     },
     {
-      "title": "Servizi esterni",
+      "title": "SERVIZI ESTERNI",
       "introduction": "Tutti gli articoli contenuti in questa parte sono validi all’interno di server TeamSpeak 3 e Discord gestiti dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
-        "NICKNAME, IMMAGINI PROFILO, DESCRIZONE E BIO/STATI": "È obbligatorio avere lo stesso nickname utilizzato sul Server Minecraft. Nickname, immagini profilo, descrizione dei canali, biografie e tutto ciò che è visibile sulle piattaforme gestite dal collettivo Laborcraft deve seguire le regole di decenza espresse nel regolamento generale.",
-        "CANALI PUBBLICI": "È vietato usare i canali pubblici per funzioni diverse da quelle per cui sono creati, tenere comportamenti tossici all’interno dei canali pubblici, cambiare canale continuamente senza motivazione, spammare musica o rumori nei canali e avere un comportamento importuno. Nei canali pubblici è vietato tenere un linguaggio volgare, anche se con l’approvazione degli altri interlocutori.",
-        "CANALI PRIVATI": "Il regolamento del server vale anche nei canali privati, che vengono trattati come le chat private. Il topic del canale non deve essere modificato (indica il nick del player proprietario del canale). Nel caso in cui il regolamento venga infranto il canale è passibile di cancellazione immediata, senza preavviso."
+        "NICKNAME": "Ove possibile, è obbligatorio avere lo stesso nickname utilizzato sul Server Minecraft.",
+        "CANALI PUBBLICI": "È vietato usare i canali pubblici per funzioni diverse da quelle per cui sono creati, e infastidire i presenti (cambiare canale continuamente senza motivazione, immettere musica o rumori nei canali) e avere un comportamento importuno o tossico. Nei canali pubblici è vietato tenere un linguaggio volgare, anche se con l’approvazione degli altri interlocutori.",
+        "CANALI PRIVATI": "Il regolamento del server vale anche nei canali privati, che vengono trattati come le chat private. Se presente, il topic del canale non deve essere modificato (indica il nick del player proprietario del canale)."
       }
     },
     {
-      "title": "Regolamento dello Staff",
+      "title": "SOFTWARE",
+      "introduction": "Qui sono specificate le direttive per i software consentiti nelle connessioni ai servizi gestiti da Laborcraft. Se il software che desideri usare non è presente nella lista, contatta lo staff.",
+      "rules": {
+    "INTRODUZIONE": "Questa sezione si applica a qualunque tipo di software e modifica che si discosti dall'utilizzo dei soli software ufficiali (non manipolati) dei servizi offerti dal collettivo Laborcraft. Alcuni esempi comprendono client alternativi, mod, resource pack, shaders, proxy...",
+    "UTILIZZO": "È proibito collegarsi con software non consentito, anche se non si ha intenzione di usarne le funzioni.",
+        "RESPONSABILITÀ": "L'utente è responsabile del proprio client: l'utilizzo di software buggato o instabile non è una scusante in caso di danni.",
+        "MOD NON ESPLICITATE": "Confidiamo nella buona fede dell'utente, tuttavia il mancato permesso nell'utilizzo di un software non qui elencato o verificabilmente concesso è responsabilità dell'utente.",
+    "LINEE GUIDA": "Generalmente, sono consentiti software che non forniscano alcun tipo di vantaggio o rischio per il server. Mod di carattere puramente prestazionale (come Optifine/Sodium) sono consentite, purché non comportino rischi. Modifiche estetiche come le shaders sono consentite, ma non devono fornire vantaggi. Ovviamente, ogni tipo di software che infranga il regolamento è severamente proibito.",
+        "CLIENT MINECRAFT": "Sono consentiti: Lunar Client, LabyMod",
+        "MOD MINECRAFT": "Sono consentite: Bobby, Distant Horizons, Do a Barrel Roll, LambDynamicLights, Litematica, No Chat Reports, No Telemetry, Xaero's Minimap (Fair-play Edition), Xaero's World Map (e relative dipendenze)."
+      }
+    },
+    {
+      "title": "STAFF",
       "introduction": "Tutti gli articoli contenuti in questa parte riguardano tutto lo Staff di Laborcraft e si applicano su tutti i servizi gestiti dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
         "COS’È LO STAFF": "Lo staff è un team, diviso in vari ruoli, che pone l’ordine, il successo, e il bene del server come proprio obiettivo, nel rispetto del regolamento e oltre le proprie credenze.",
         "IMPEGNO": "Entrare nello staff equivale a prendersi un impegno, e a tutti i membri dello Staff è richiesta serietà e costanza in quest’ultimo.",
-        "POTERE, DECISIONI E RAPPORTI TRA RUOLI": "Ogni membro dello Staff è tenuto a non agire al di fuori delle facoltà e dei poteri concessogli. Un superiore, in via eccezionale, può temporaneamente delegare singoli compiti e conferire specifici poteri ad un membro di rango inferiore, purché il primo possieda le facoltà che desidera conferire. Ogni membro dello Staff deve impegnarsi a rispettare l'autorità e le decisioni dei superiori e a seguirne le direttive. Le decisioni prese dallo Staff amministrativo e dal proprietario non sono discutibili. Ogni membro dello Staff, limitatamente alla definizione del suo ruolo, ha pieno potere decisionale, esecutivo e/o amministrativo. Una decisione non è discutibile da un superiore, a patto di essere concorde con il regolamento, le decisioni e direttive precedenti, il bene del server, i principi, i valori, gli ideali e la visione del server che il proprietario possiede, oltre al non avere fattore critico e/o determinante. Ogni membro dello Staff deve impegnarsi ad ascoltare sempre con attenzione ed apertura ciò che un altro membro pensa e propone, indipendentemente dal ruolo ricoperto.",
-        "COMUNICAZIONE INTERNA E PRIVACY": "Non discutere in presenza di utenti. Tutto ciò che viene detto sui canali di comunicazione dello Staff deve rimanere riservato allo Staff",
+        "POTERE, DECISIONI E RAPPORTI TRA RUOLI": "Ogni membro dello Staff è tenuto a non agire al di fuori delle facoltà e dei poteri concessogli. Un superiore, in via eccezionale, può temporaneamente delegare singoli compiti e conferire specifici poteri ad un membro di rango inferiore, purché il primo possieda le facoltà che desidera conferire. Ogni membro dello Staff deve impegnarsi a rispettare l'autorità e le decisioni dei superiori e a seguirne le direttive. Le decisioni definitive prese dallo Staff amministrativo e dal proprietario non sono discutibili. Ogni membro dello Staff, limitatamente alla definizione del suo ruolo, ha pieno potere decisionale, esecutivo e/o amministrativo. Una decisione non è discutibile da un superiore, a patto di essere concorde con il regolamento, le decisioni e direttive precedenti, il bene del server, i principi, i valori, gli ideali e la visione del server che il proprietario possiede, oltre al non avere fattore critico e/o determinante. Ogni membro dello Staff deve impegnarsi ad ascoltare sempre con attenzione ed apertura ciò che un altro membro pensa e propone, indipendentemente dal ruolo ricoperto. Lo staff dovrebbe utilizzare le chat condivise per parlare di questioni del server, per non creare frammentazione nel gruppo. L'insorgenza di problemi, interpersonali o non, dovrebbe essere discussa (anche coi superiori, anche se sono la causa), al fine di essere risolta e non creare un distacco o altri problemi.",
+        "COMUNICAZIONE INTERNA E PRIVACY": "Non discutere in presenza di utenti. Tutto ciò che viene detto sui canali di comunicazione dello Staff deve rimanere riservato allo Staff.",
         "DEFINIZIONE DEI RUOLI, DIVISIONE DEI POTERI E GERARCHIA": {
-          "article": "I ruoli dello staff sono organizzati gerarchicamente, e possiedono diverse facoltà e diversi poteri. Ogni ruolo, se non definito in modo specifico, è limitato alla sezione (modalità di gioco) in cui lo staffer esercita. È possibile ricoprire più di un ruolo. Una parte specifica dello staff compone lo staff amministrativo, che si occupa di amministrare il server in ogni sua parte. I ruoli, che sono susseguiti da un numero che indica la superiorità gerarchica rispetto agli utenti, sono",
+          "article": "I ruoli dello staff sono organizzati gerarchicamente, e possiedono diverse facoltà e diversi poteri. Ogni ruolo, se non definito in modo specifico, è limitato alla sezione (modalità di gioco) in cui lo staffer esercita. È possibile ricoprire più di un ruolo. Una parte specifica dello staff compone lo staff amministrativo, che si occupa di amministrare il server in ogni sua parte. I ruoli, che sono susseguiti da un numero che indica la superiorità gerarchica rispetto agli utenti, sono:",
           "points": {
-            "BUILDER (0)": "Il Builder è colui che crea e si occupa delle strutture fisiche del server Minecraft.",
+            "BUILDER (0)": "Il Builder crea e si occupa delle strutture fisiche del server Minecraft.",
+            "HELPER (1)": "L’Helper ha il compito di occuparsi dei giocatori e aiutarli nelle loro difficoltà, eventualmente richiedendo l’intervento dello staff. L’Helper ha diritto, solo in caso di emergenza e di mancanza di superiori, ad utilizzare i poteri di moderazione. Tutti i provvedimenti presi da un Helper devono essere comunicati e revisionati da un moderatore il prima possibile.",
             "CAPO BUILDER (1)": "Il Builder che coordina gli altri Builder.",
-            "HELPER (1)": "L’Helper è colui che ha il compito di occuparsi dei giocatori e aiutarli nelle loro difficoltà, eventualmente richiedendo l’intervento dello staff. L’Helper ha diritto, solo in caso di emergenza e di mancanza di superiori, ad utilizzare i poteri di moderazione. Tutti i provvedimenti presi da un Helper devono essere comunicati e revisionati da un moderatore il prima possibile.",
-            "CURATORE (2)": "Il curatore è colui che ha il compito di occuparsi della qualità di una modalità e tenere traccia di eventuali problematiche. Il curatore possiede anche tutti i diritti e doveri dell’Helper",
-            "SOCIAL MANAGER (2)": "Il social manager si occupa di gestire gli account social del server. Il social manager possiede anche tutti i diritti e doveri dell’Helper.",
+            "JUNIOR DEV (1)": "Il Junior Developer è un developer apprendista, può occuparsi attivamente di questioni tecniche facendo riferimento a un Senior Developer, o può agire autonomamente in caso di emergenza.",
+            "SOCIAL MANAGER (2)": "Il social manager si occupa di gestire gli account social del server, della promozione, delle grafiche e occasionalmente del branding. Ha gli stessi diritti dell'Helper.",
             "MODERATORE (3)": "Il moderatore è colui che ha il dovere di verificare che il regolamento venga rispettato, usufruendo, se necessario, degli strumenti di moderazione.",
-            "JUNIOR DEVELOPER (3)": "Il Junior Developer è un developer apprendista, può occuparsi attivamente di questioni tecniche facendo riferimento a un developer, o può agire autonomamente in caso di emergenza.",
-            "(SENIOR) DEVELOPER (4)": "Il Developer è colui che si occupa del piano tecnico del server e possiede il pieno controllo delle sezioni in cui opera",
-            "MACHINIST (5)": "Il Machinist (macchinista) si occupa della macchina e dell’infrastruttura di Laborcraft. Possiede completo accesso ad ogni parte del server.",
-            "AMMINISTRATORE (6)": "L’amministratore è colui che ha il dovere di amministrare il server e gestirne, in parte, il piano tecnico. Se necessario, si occupa della moderazione. Fa parte dello Staff amministrativo.",
-            "AMMINISTRATORE GLOBALE (7)": "L’amministratore globale è un amministratore che agisce in ogni sezione del server Minecraft e coordina gli altri amministratori.",
-            "CAPO DEVELOPER (7)": "Il Capo Developer è una figura con alto potere decisionale, oltre che un developer che coordina gli altri developer. Fa parte dello Staff amministrativo e agisce in ogni sezione.",
+            "(SENIOR) DEVELOPER (4)": "Il Developer è colui che si occupa del piano tecnico del server e possiede il pieno controllo delle sezioni in cui opera.",
+            "MANAGER (5)": "Il manager si occupa della gestione e organizzazione di progetti di vario tipo a lui assegnati.",
+            "AMMINISTRATORE (6)": "L’amministratore è colui che ha il dovere di amministrare il server e gestirne, in parte, il piano tecnico. Ha gli stessi doveri del Manager. Se necessario, si occupa della moderazione. Fa parte dello Staff amministrativo.",
+            "LEAD DEVELOPER (7)": "Il Lead Developer è una figura con alto potere decisionale, oltre che un developer che coordina gli altri developer. Fa parte dello Staff amministrativo e agisce in ogni sezione.",
             "COFOUNDER (8)": "Il CoFounder è una figura con alto potere decisionale, che ha fondato il server insieme ai founder. Fa parte dello Staff amministrativo e agisce in ogni sezione.",
-            "FOUNDER E PROPRIETARIO (8)": "Il Founder è una figura con alto potere decisionale, che ha fondato e possiede il server, e ha potere assoluto. Fa parte dello Staff amministrativo e agisce in ogni sezione."
+            "FOUNDER (PROPRIETARIO) (9)": "Il Founder è una figura con alto potere decisionale, che ha fondato e possiede il server, e ha potere assoluto. Fa parte dello Staff amministrativo e agisce in ogni sezione."
           }
         },
         "DEFINITIVITÀ DELLE DECISIONI": "Una decisione presa, comunicata o applicata, specialmente se da più persone, a meno di casi straordinari, non deve essere annullata. Ciò è necessario per mantenere, agli occhi dei player, che vedono lo staff come un unico organo, la coerenza e la professionalità di quest’ultimo.",
@@ -142,26 +155,27 @@
       }
     },
     {
-      "title": "Dichiarazione di Responsabilità",
+      "title": "DICHIARAZIONE DI RESPONSABILITÀ",
       "introduction": "Dichiarazione di responsabilità imputabili a Laborcraft",
       "rules": {
         "DANNI": "Laborcraft non si assume alcuna responsabilità nei confronti degli utenti per danni di qualsiasi tipo causati direttamente o indirettamente da altri utenti o dall'utilizzo del servizio.",
-        "MODIFCHE": "Laborcraft si riserva il diritto di modificare questo documento in qualsiasi momento. Le modifiche entreranno in vigore solo dopo una settimana, se non diversamente specificato. È dovere dell'utente tenersi informato regolarmente sui cambiamenti dello stesso.",
         "DINAMICITÀ": "Laborcraft è un servizio fruibile online, pertanto l'esperienza di gioco può variare."
       }
     },
     {
-      "title": "Termini di Utilizzo",
-      "introduction": "",
+      "title": "METAREGOLE",
+      "introduction": "Questa sezione include gli articoli che regolano il regolamento.",
       "rules": {
-        "TERMINI DI UTILIZZO": "I fornitori (“noi”, “nostra”, “nostro”, “ci”) dei servizi forniti da Laborcraft non sono responsabili di nessun contenuto creato dall’utente. L’unico responsabile di un contenuto è l’autore stesso. I servizi offerti da Laborcraft sono disponibili esclusivamente agli utenti che hanno compiuto almeno 13 anni, ad eccezione del Forum, che è disponibile solo agli utenti che hanno compiuto almeno 16 anni. Se l’utente non soddisfa tali requisiti, chiediamo cortesemente di non usufruire dei nostri servizi. Utilizzando i nostri servizi, l’utente dichiara di avere l’età minima necessaria o di averla superata. Quando l’utente carica, trasmette, memorizza, invia o riceve contenuti da o tramite i nostri Servizi, concede a Laborcraft una irrevocabile, permanente e illimitata licenza per, anche senza fornire preavvisi o motivazioni, memorizzare, utilizzare, modificare, rimuovere e, in caso di pubblicazione dell’utente, pubblicare a sua volta e distribuire i suddetti contenuti. L'utente ne mantiene gli eventuali diritti di proprietà intellettuale detenuti. Richieste di rimozione di contenuti saranno prese in causa a nostra discrezione. Se l'utente desidera chiudere il proprio account sul Forum, chiediamo cortesemente di contattarci. Tutti i contenuti sopracitati possono essere sottoposti a controlli da parte di un membro dello staff. I dati raccolti possono anche essere inviati a siti di terze parti per verificarli (includendo, ma non esclusivamente, servizi di prevenzione di spam). Chiediamo cortesemente di non sottoscrivere nessun contenuto che si consideri privato o confidenziale. I nostri Servizi non devono essere utilizzati in modo improprio. L'utente accetta di non utilizzare Laborcraft per pubblicare o trasmettere contenuto che sia diffamatorio, abusivo, istigante l’odio, offensivo, spam o similari, che sia contenente materiale per adulti, informazioni personali di altri, che rischi di infrangere il copyright, incoraggi l’attività illegale o in altro modo violi la legge. L’utente è interamente responsabile per il contenuto che pubblica, invia e trasmette. 12 Ci riserviamo il diritto di terminare l'accesso di un utente, interamente o parzialmente, ai servizi offerti da Laborcraft, in qualsiasi momento, anche senza fornire preavviso o motivazione. Utilizzando i nostri Servizi, l’utente accetta i presenti termini. Se l'utente non accetta questi termini, è invitato a non usufruirne. Questi termini possono subire variazioni in qualsiasi momento, anche senza preavviso. Se l’utente non accetta i termini modificati di un Servizio, è invitato a smettere di utilizzarlo."
+        "MODIFICA DEL REGOLAMENTO": "Laborcraft si riserva il diritto di modificare questo documento in qualsiasi momento, anche senza preavviso. Le modifiche entreranno in vigore solo dopo una settimana, se non diversamente specificato. È dovere dell'utente tenersi informato regolarmente sui cambiamenti dello stesso.\nQuesto documento può essere modificato solo dallo Staff amministrativo, previa discussione interna che abbia interrogato tutte le parti. È possibile discuterne con il resto dello Staff, che può anche proporre modifiche.",
+        "VERSIONAMENTO": "Dalla versione 3 il regolamento è versionato semanticamente. Lo schema 'A.B.C.D' segue questa convenzione:\n - A: Revisione completa del regolamento o del sistema.\n - B: Modifica importante al regolamento.\n - C: Modifica minore al regolamento.\n - D: Modifica minore al regolamento che non ne cambia l'interpretazione.\nLe versioni precedenti del regolamento sono consultabili nella relativa repository Github.",
+        "LICENZA": "Regolamento di Laborcraft - Distribuito con Licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale.\nCC BY/NC/ND 4.0"
       }
     },
     {
-      "title": "Licenza",
+      "title": "TERMINI DI UTILIZZO",
       "introduction": "",
       "rules": {
-        "LICENZA": "Regolamento di Laborcraft distribuito con Licenza Creative Commons\nAttribuzione - Non commerciale - Non opere derivate 3.0 Italia."
+        "TERMINI DI UTILIZZO": "I fornitori (“noi”, “nostra”, “nostro”, “ci”) dei servizi forniti da Laborcraft non sono responsabili di nessun contenuto creato dall’utente. L’unico responsabile di un contenuto è l’autore stesso. I servizi offerti da Laborcraft sono disponibili esclusivamente agli utenti che hanno compiuto almeno 13 anni, ad eccezione del Forum, che è disponibile solo agli utenti che hanno compiuto almeno 16 anni. Se l’utente non soddisfa tali requisiti, chiediamo cortesemente di non usufruire dei nostri servizi. Utilizzando i nostri servizi, l’utente dichiara di avere l’età minima necessaria o di averla superata. Quando l’utente carica, trasmette, memorizza, invia o riceve contenuti da o tramite i nostri Servizi, concede a Laborcraft una irrevocabile, permanente e illimitata licenza per, anche senza fornire preavvisi o motivazioni, memorizzare, utilizzare, modificare, rimuovere e, in caso di pubblicazione dell’utente, pubblicare a sua volta e distribuire i suddetti contenuti. L'utente ne mantiene gli eventuali diritti di proprietà intellettuale detenuti. Richieste di rimozione di contenuti saranno prese in causa a nostra discrezione. Se l'utente desidera chiudere il proprio account sul Forum, chiediamo cortesemente di contattarci. Tutti i contenuti sopracitati possono essere sottoposti a controlli da parte di un membro dello staff. I dati raccolti possono anche essere inviati a siti di terze parti per verificarli (includendo, ma non esclusivamente, servizi di prevenzione di spam). Chiediamo cortesemente di non sottoscrivere nessun contenuto che si consideri privato o confidenziale. I nostri Servizi non devono essere utilizzati in modo improprio. L'utente accetta di non utilizzare Laborcraft per pubblicare o trasmettere contenuto che sia diffamatorio, abusivo, istigante l’odio, offensivo, spam o similari, che sia contenente materiale per adulti, informazioni personali di altri, che rischi di infrangere il copyright, incoraggi l’attività illegale o in altro modo violi la legge. L’utente è interamente responsabile per il contenuto che pubblica, invia e trasmette. Ci riserviamo il diritto di terminare l'accesso di un utente, interamente o parzialmente, ai servizi offerti da Laborcraft, in qualsiasi momento, anche senza fornire preavviso o motivazione. Utilizzando i nostri Servizi, l’utente accetta i presenti termini. Se l'utente non accetta questi termini, è invitato a non usufruirne. Questi termini possono subire variazioni in qualsiasi momento, anche senza preavviso. Se l’utente non accetta i termini modificati di un Servizio, è invitato a smettere di utilizzarlo."
       }
     }
   ]
