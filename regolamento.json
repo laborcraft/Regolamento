@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1.1",
+  "version": "3.0.1.2",
   "date": "28 Ottobre 2024",
   "sections": [
     {
@@ -123,12 +123,12 @@
     },
     {
       "title": "STAFF",
-      "introduction": "Tutti gli articoli contenuti in questa parte riguardano tutto lo Staff di Laborcraft e si applicano su tutti i servizi gestiti dal collettivo Laborcraft ed espandono il regolamento generale.",
+      "introduction": "Tutti gli articoli contenuti in questa parte riguardano tutto lo staff di Laborcraft e si applicano su tutti i servizi gestiti dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
         "COS’È LO STAFF": "Lo staff è un team, diviso in vari ruoli, che pone l’ordine, il successo, e il bene del server come proprio obiettivo, nel rispetto del regolamento e oltre le proprie credenze.",
-        "IMPEGNO": "Entrare nello staff equivale a prendersi un impegno, e a tutti i membri dello Staff è richiesta serietà e costanza in quest’ultimo.",
-        "POTERE, DECISIONI E RAPPORTI TRA RUOLI": "Ogni membro dello Staff è tenuto a non agire al di fuori delle facoltà e dei poteri concessogli. Un superiore, in via eccezionale, può temporaneamente delegare singoli compiti e conferire specifici poteri ad un membro di rango inferiore, purché il primo possieda le facoltà che desidera conferire. Ogni membro dello Staff deve impegnarsi a rispettare l'autorità e le decisioni dei superiori e a seguirne le direttive. Le decisioni definitive prese dallo staff amministrativo e dal proprietario non sono discutibili. Ogni membro dello Staff, limitatamente alla definizione del suo ruolo, ha pieno potere decisionale, esecutivo e/o amministrativo. Una decisione non è discutibile da un superiore, a patto di essere concorde con il regolamento, le decisioni e direttive precedenti, il bene del server, i principi, i valori, gli ideali e la visione del server che il proprietario possiede, oltre al non avere fattore critico e/o determinante. Ogni membro dello Staff deve impegnarsi ad ascoltare sempre con attenzione ed apertura ciò che un altro membro pensa e propone, indipendentemente dal ruolo ricoperto. Lo staff dovrebbe utilizzare le chat condivise per parlare di questioni del server, per non creare frammentazione nel gruppo. L'insorgenza di problemi, interpersonali o non, dovrebbe essere discussa (anche coi superiori, anche se sono la causa), al fine di essere risolta e non creare un distacco o altri problemi.",
-        "COMUNICAZIONE INTERNA E PRIVACY": "Non discutere in presenza di utenti. Tutto ciò che viene detto sui canali di comunicazione dello Staff deve rimanere riservato allo Staff.",
+        "IMPEGNO": "Entrare nello staff equivale a prendersi un impegno, e a tutti i membri dello staff è richiesta serietà e costanza in quest’ultimo.",
+        "POTERE, DECISIONI E RAPPORTI TRA RUOLI": "Ogni membro dello staff è tenuto a non agire al di fuori delle facoltà e dei poteri concessogli. Un superiore, in via eccezionale, può temporaneamente delegare singoli compiti e conferire specifici poteri ad un membro di rango inferiore, purché il primo possieda le facoltà che desidera conferire. Ogni membro dello staff deve impegnarsi a rispettare l'autorità e le decisioni dei superiori e a seguirne le direttive. Le decisioni definitive prese dallo staff amministrativo e dal proprietario non sono discutibili. Ogni membro dello staff, limitatamente alla definizione del suo ruolo, ha pieno potere decisionale, esecutivo e/o amministrativo. Una decisione non è discutibile da un superiore, a patto di essere concorde con il regolamento, le decisioni e direttive precedenti, il bene del server, i principi, i valori, gli ideali e la visione del server che il proprietario possiede, oltre al non avere fattore critico e/o determinante. Ogni membro dello staff deve impegnarsi ad ascoltare sempre con attenzione ed apertura ciò che un altro membro pensa e propone, indipendentemente dal ruolo ricoperto. Lo staff dovrebbe utilizzare le chat condivise per parlare di questioni del server, per non creare frammentazione nel gruppo. L'insorgenza di problemi, interpersonali o non, dovrebbe essere discussa (anche coi superiori, anche se sono la causa), al fine di essere risolta e non creare un distacco o altri problemi.",
+        "COMUNICAZIONE INTERNA E PRIVACY": "Non discutere in presenza di utenti. Tutto ciò che viene detto sui canali di comunicazione dello staff deve rimanere riservato allo staff.",
         "DEFINIZIONE DEI RUOLI, DIVISIONE DEI POTERI E GERARCHIA": {
           "article": "I ruoli dello staff sono organizzati gerarchicamente, e possiedono diverse facoltà e diversi poteri. Ogni ruolo, se non definito in modo specifico, è limitato alla sezione (modalità di gioco) in cui lo staffer esercita. È possibile ricoprire più di un ruolo. Una parte specifica dello staff compone lo staff amministrativo, che si occupa di amministrare il server in ogni sua parte. I ruoli, che sono susseguiti da un numero che indica la superiorità gerarchica rispetto agli utenti, sono:",
           "points": {
@@ -149,10 +149,10 @@
         },
         "DEFINITIVITÀ DELLE DECISIONI": "Una decisione presa, comunicata o applicata, specialmente se da più persone, a meno di casi straordinari, non deve essere annullata. Ciò è necessario per mantenere, agli occhi dei player, che vedono lo staff come un unico organo, la coerenza e la professionalità di quest’ultimo.",
         "VALENZA DEL REGOLAMENTO": "Non imporre regole non specificamente incluse nel regolamento. Eventuali eccezioni e conseguenti revisioni del regolamento devono essere discusse almeno in presenza di staff amministrativo.",
-        "ACCOUNT PERSONALI": "Gli account dei membri dello Staff, su qualsiasi piattaforma dove essi siano attivi come tali, devono essere esclusivamente personali e mai condivisi con altri soggetti. Le credenziali di accesso devono essere mantenute segrete.",
-        "ABUSO DI POTERE": "È severamente vietato l’utilizzo degli strumenti affidati ai membri dello Staff con lo scopo di avvantaggiare sé stessi o qualsiasi altro giocatore.",
+        "ACCOUNT PERSONALI": "Gli account dei membri dello staff, su qualsiasi piattaforma dove essi siano attivi come tali, devono essere esclusivamente personali e mai condivisi con altri soggetti. Le credenziali di accesso devono essere mantenute segrete.",
+        "ABUSO DI POTERE": "È severamente vietato l’utilizzo degli strumenti affidati ai membri dello staff con lo scopo di avvantaggiare sé stessi o qualsiasi altro giocatore.",
         "RISPETTO": "Rispettare gli utenti e non atteggiarsi con superiorità.",
-        "CONGEDO TEMPORANEO": "Tutti i membri dello Staff, indifferentemente dal loro ruolo e dalla loro motivazione, hanno il diritto di richiedere un congedo temporaneo. Se questo supererà il tempo limite si provvederà alla rimozione definitiva del ruolo, a meno di decisioni da parte dello staff amministrativo."
+        "CONGEDO TEMPORANEO": "Tutti i membri dello staff, indifferentemente dal loro ruolo e dalla loro motivazione, hanno il diritto di richiedere un congedo temporaneo. Se questo supererà il tempo limite si provvederà alla rimozione definitiva del ruolo, a meno di decisioni da parte dello staff amministrativo."
       }
     },
     {
@@ -167,7 +167,7 @@
       "title": "METAREGOLE",
       "introduction": "Questa sezione include gli articoli che regolano il regolamento.",
       "rules": {
-        "MODIFICA DEL REGOLAMENTO": "Laborcraft si riserva il diritto di modificare questo documento in qualsiasi momento, anche senza preavviso. Le modifiche entreranno in vigore solo dopo una settimana, se non diversamente specificato. È dovere dell'utente tenersi informato regolarmente sui cambiamenti dello stesso.\nQuesto documento può essere modificato solo dallo staff amministrativo, previa discussione interna che abbia interrogato tutte le parti. È possibile discuterne con il resto dello Staff, che può anche proporre modifiche.",
+        "MODIFICA DEL REGOLAMENTO": "Laborcraft si riserva il diritto di modificare questo documento in qualsiasi momento, anche senza preavviso. Le modifiche entreranno in vigore solo dopo una settimana, se non diversamente specificato. È dovere dell'utente tenersi informato regolarmente sui cambiamenti dello stesso.\nQuesto documento può essere modificato solo dallo staff amministrativo, previa discussione interna che abbia interrogato tutte le parti. È possibile discuterne con il resto dello staff, che può anche proporre modifiche.",
         "VERSIONAMENTO": "Dalla versione 3 il regolamento è versionato semanticamente. Lo schema 'A.B.C.D' segue questa convenzione:\n - A: Revisione completa del regolamento o del sistema.\n - B: Modifica importante al regolamento.\n - C: Modifica minore al regolamento.\n - D: Modifica minore al regolamento che non ne cambia l'interpretazione.\nLe versioni precedenti del regolamento sono consultabili nella relativa repository Github.",
         "LICENZA": "Regolamento di Laborcraft - Distribuito con Licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 4.0 Internazionale.\nCC BY/NC/ND 4.0"
       }
