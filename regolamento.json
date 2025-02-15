@@ -1,6 +1,6 @@
 {
-  "version": "3.0.1.2",
-  "date": "28 Ottobre 2024",
+  "version": "3.0.2.0",
+  "date": "15 Febbraio 2025",
   "sections": [
     {
       "title": "GENERALE",
@@ -143,8 +143,8 @@
             "MANAGER (5)": "Il manager si occupa della gestione e organizzazione di progetti di vario tipo a lui assegnati.",
             "AMMINISTRATORE (6)": "L’amministratore è colui che ha il dovere di amministrare il server e gestirne, in parte, il piano tecnico. Ha gli stessi doveri del manager. Se necessario, si occupa della moderazione. Fa parte dello staff amministrativo.",
             "LEAD DEVELOPER (7)": "Il lead developer è una figura con alto potere decisionale, oltre che un developer che coordina gli altri developer. Fa parte dello staff amministrativo e agisce in ogni sezione.",
-            "COFOUNDER (8)": "Il CoFounder è una figura con alto potere decisionale, che ha fondato il server insieme ai founder. Fa parte dello staff amministrativo e agisce in ogni sezione.",
-            "FOUNDER (PROPRIETARIO) (9)": "Il Founder è una figura con alto potere decisionale, che ha fondato e possiede il server, e ha potere assoluto. Fa parte dello staff amministrativo e agisce in ogni sezione."
+            "FOUNDER (8)": "Il Founder è una figura con alto potere decisionale, che ha fondato il server. Fa parte dello staff amministrativo e agisce in ogni sezione.",
+            "OWNER (9)": "L'owner è il proprietario è una figura con alto potere decisionale, che ha fondato e possiede il server, e ha potere assoluto. Fa parte dello staff amministrativo e agisce in ogni sezione."
           }
         },
         "DEFINITIVITÀ DELLE DECISIONI": "Una decisione presa, comunicata o applicata, specialmente se da più persone, a meno di casi straordinari, non deve essere annullata. Ciò è necessario per mantenere, agli occhi dei player, che vedono lo staff come un unico organo, la coerenza e la professionalità di quest’ultimo.",
