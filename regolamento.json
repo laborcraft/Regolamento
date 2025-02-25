@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0.0",
+  "version": "3.1.1.0",
   "date": "25 Febbraio 2025",
   "sections": [
     {
@@ -126,7 +126,7 @@
       "introduction": "Tutti gli articoli contenuti in questa parte riguardano tutto lo staff di Laborcraft e si applicano su tutti i servizi gestiti dal collettivo Laborcraft ed espandono il regolamento generale.",
       "rules": {
         "COS’È LO STAFF": "Lo staff è un team, diviso in vari ruoli, che pone l’ordine, il successo, e il bene del server come proprio obiettivo, nel rispetto del regolamento e oltre le proprie credenze.",
-        "IMPEGNO": "Entrare nello staff equivale a prendersi un impegno, e a tutti i membri dello staff è richiesta serietà e costanza in quest’ultimo. Se entri e resti nello staff, rispettivamente accetti questo documento e le sue future modifiche.",
+        "IMPEGNO": "Entrare nello staff equivale a prendersi un impegno, e a tutti i membri dello staff è richiesta serietà e costanza in quest’ultimo. Entrando e restando nello staff, rispettivamente si accettano questo documento e le sue future modifiche.",
         "POTERE, DECISIONI E RAPPORTI TRA RUOLI": "Ogni membro dello staff è tenuto a non agire al di fuori delle facoltà e dei poteri concessogli. Un superiore, in via eccezionale, può temporaneamente delegare singoli compiti e conferire specifici poteri ad un membro di rango inferiore, purché il primo possieda le facoltà che desidera conferire. Se uno staffer sta occasionalmente partecipando al lavoro di un altro ruolo, chi è del ruolo che detiene la competenza ha priorità sulla decisione. Nel caso ci fosse una sovrapposizione di competenza tra i gradi, se gli staffer coinvolti non trovano un punto di incontro pacificamente e velocemente devono richiedere l'intervento di un grado superiore competente.\nOgni membro dello staff deve impegnarsi a rispettare l'autorità e le decisioni dei superiori e a seguirne le direttive. Le decisioni definitive prese dallo staff amministrativo e dal proprietario non sono discutibili. Ogni membro dello staff, limitatamente alla definizione del suo ruolo, ha pieno potere decisionale, esecutivo e/o amministrativo. Una decisione non è discutibile da un superiore, a patto di essere concorde con il regolamento, le decisioni e direttive precedenti, il bene del server, i principi, i valori, gli ideali e la visione del server che il proprietario possiede, oltre al non avere fattore critico e/o determinante.\nOgni membro dello staff deve impegnarsi ad ascoltare sempre con attenzione ed apertura ciò che un altro membro pensa e propone, indipendentemente dal ruolo ricoperto. Lo staff dovrebbe utilizzare le chat condivise per parlare di questioni del server, per non creare frammentazione nel gruppo. L'insorgenza di problemi, interpersonali o non, dovrebbe essere discussa (anche coi superiori, anche se sono la causa), al fine di essere risolta e non creare un distacco o altri problemi.",
         "COMUNICAZIONE INTERNA E PRIVACY": "Non discutere in presenza di utenti. Tutto ciò che viene detto sui canali di comunicazione dello staff deve rimanere riservato allo staff.",
         "DEFINIZIONE DEI RUOLI, DIVISIONE DEI POTERI E GERARCHIA": {
@@ -154,7 +154,7 @@
         "RISPETTO": "Rispettare gli utenti e non atteggiarsi con superiorità.",
         "CONGEDO TEMPORANEO": "Tutti i membri dello staff, indifferentemente dal loro ruolo e dalla loro motivazione, hanno il diritto di richiedere un congedo temporaneo. Se questo supererà il tempo limite si provvederà alla rimozione definitiva del ruolo, a meno di decisioni da parte dello staff amministrativo.",
         "CRITERI DI PROMOZIONE": {
-          "article": "La promozione di uno staffer viene decisa dall'amministrazione in base a TUTTI i seguenti parametri:",
+          "article": "Uno staffer può richiedere delucidazioni e discutere del proprio percorso. Si ricordi che essere in gradi inferiori non implica un minore apprezzamento. Le promozioni devono valorizzare lo staffer e non essere solo un modo di scalare la gerarchia. La promozione di uno staffer viene decisa dall'amministrazione in base a TUTTI i seguenti parametri:",
           "points": {
 	    "NECESSITÀ": "Disponibilità e necessità di personale tra le varie sezioni dello staff (incluse quelle a grado inferiore).",
 	    "AFFIDABILITÀ": "Affidabilità dimostrata relativa alla delicatezza del ruolo superiore.",
