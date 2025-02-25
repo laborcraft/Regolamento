@@ -17,7 +17,7 @@
         "PRIVACY": "È vietato divulgare informazioni e materiali personali di altri utenti senza il loro esplicito e inconfutabile consenso.",
         "COMMUNITY": "Ogni utente deve seguire le norme di convivenza comune e mantenere un comportamento consono. Non saranno tollerati atteggiamenti tossici o inopportuni di alcun tipo, tra cui: bullismo, molestie (sessuali e non, specialmente verso minori), nonnismo, discriminazione; all’interno e all’esterno delle piattaforme gestite dal collettivo Laborcraft.",
         "TUTELA DEL GIOCO": "Non sono consentiti comportamenti e stili di gioco che possono danneggiare l'esperienza di gioco altrui.",
-		"GIOCO SCORRETTO": "Qualsiasi tentativo di avvantaggiarsi in maniera illecita verrà punito.",
+	"GIOCO SCORRETTO": "Qualsiasi tentativo di avvantaggiarsi in maniera illecita verrà punito.",
         "ACCOUNT MULTIPLI": "È vietato l’utilizzo di account multipli allo scopo di avvantaggiarsi.",
         "INGANNO": "È vietato ingannare altri utenti (se non diversamente specificato, ai soli fini del gioco).",
         "VOLGARITÀ": "Sono vietati <b>bestemmie</b>, volgarità, insulti, offese, spam, flood e abuso del CAPS (scrivere tutto in maiuscolo). È tollerato un <b>moderato</b> uso di imprecazioni in chat, ma senza riferimenti religiosi.\n\nNelle chat private, con il consenso dei partecipanti, è tollerato l'uso di volgarità ed insulti (giocosi, tra amici) ad esclusione di etichette denigratorie (sessiste, razziste...) e riferimenti religiosi. Tuttavia, ogni reclamo verrà sempre considerato legittimo.\n\nÈ severamente proibito rappresentare in qualsiasi modo simboli offensivi, inappropriati, controversi o espressione d'odio, siano essi di carattere politico, religioso, sessuale o altro. È vietato l’invio di qualsiasi immagine, documento o link contenente materiale ledente la pubblica decenza (immagini per adulti, volgari, cruente…).",
@@ -45,14 +45,14 @@
         "CITTÀ": {
           "article": "I seguenti articoli si applicano alle città ufficiali del Survival, cioè quelle fondate seguendo le indicazioni del bando delle città (consultabile sul forum o sulla wiki).",
           "points": {
-			"SINDACO": "Si può essere sindaci di una singola città.",
-			"CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
-			"ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
+	    "SINDACO": "Si può essere sindaci di una singola città.",
+	    "CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
+	    "ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
             "CONFINI E PROPRIETÀ": "L’estensione di una città è definita dai confini della zona protetta della città, che deve essere interamente di proprietà del sindaco. Il sindaco di una città ha giurisdizione solo ed esclusivamente su queste zone.",
-			"ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
-			"COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
+	    "ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
+	    "COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
             "LEGGI E TASSE": "Il sindaco può imporre leggi e tasse sui cittadini. Lo staff interviene solo se il regolamento del server è stato infranto, ma il mancato rispetto di queste è una motivazione sufficiente per l’espulsione dalla città. Le leggi devono:\n • rientrare nel regolamento di Laborcraft\n • essere modificate massimo una volta a settimana.\n • essere approvate da un admin o superiore (anche per modifiche)\n • essere elencate sul post di presentazione (fonte ufficiale) e nel municipio.",
-			"INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
+	    "INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
             "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici.",
             "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco in qualsiasi maniera possibile, oppure utilizzare un cartello. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni; nel caso in cui questo non avvenga il sindaco può procedere autonomamente. Tutti i beni del giocatore dovranno essere restituiti al giocatore; se ciò non dovesse essere possibile dovranno essere conservati nel deposito cittadino.",
             "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
@@ -74,14 +74,14 @@
         "CITTÀ": {
           "article": "I seguenti articoli si applicano alle città ufficiali del Vanilla, cioè quelle fondate seguendo le indicazioni del bando delle città (consultabile sul forum o sulla wiki).",
           "points": {
-			"SINDACO": "Si può essere sindaci di una singola città.",
-			"CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
-			"ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
+	    "SINDACO": "Si può essere sindaci di una singola città.",
+	    "CITTADINI": "Ad ogni cittadino deve essere assegnata almeno una casa via subclaim.",
+	    "ATTIVITÀ": "In ogni momento devono sempre essere attivi (non assenti dalla modalità da più di 3 mesi) almeno 5 cittadini (sindaco incluso).",
             "CONFINI E PROPRIETÀ": "L’estensione di una città è definita dai confini della zona protetta della città, che deve essere interamente di proprietà del sindaco. Il sindaco di una città ha giurisdizione solo ed esclusivamente su queste zone.",
-			"ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
-			"COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
+	    "ESTETICA": "La città deve avere coerenza estetica e un aspetto sufficientemente decoroso.",
+	    "COSTRUZIONI": "Una città deve contenere le seguenti costruzioni:\n • un municipio\n • un deposito cittadino, privatizzato e di adeguata dimensione, dove gli oggetti dei player espulsi o inattivi possano essere conservati.\n • almeno un'altra costruzione utile alla città e ai suoi cittadini (ad esempio farm pubblica)",
             "LEGGI E TASSE": "Il sindaco può imporre leggi e tasse sui cittadini. Lo staff interviene solo se il regolamento del server è stato infranto, ma il mancato rispetto di queste è una motivazione sufficiente per l’espulsione dalla città. Le leggi devono:\n • rientrare nel regolamento di Laborcraft\n • essere modificate massimo una volta a settimana.\n • essere approvate da un admin o superiore (anche per modifiche)\n • essere elencate sul post di presentazione (fonte ufficiale) e nel municipio.",
-			"INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
+	    "INFORMAZIONI": "Tutte le informazioni sulla città devono essere costantemente aggiornate, in particolare la presentazione sul forum e le regole nel municipio.",
             "TIRANNIA": "Sono vietati atteggiamenti dittatoriali o tirannici.",
             "ESPULSIONE": "Ammessa la presenza di valide ragioni, un giocatore può essere espulso dalla città. In tal caso il giocatore dovrà venir notificato dal sindaco in qualsiasi maniera possibile, oppure utilizzare un cartello. Il giocatore avrà a disposizione 72 ore per rimuovere i suoi beni; nel caso in cui questo non avvenga il sindaco può procedere autonomamente. Tutti i beni del giocatore dovranno essere restituiti al giocatore; se ciò non dovesse essere possibile dovranno essere conservati nel deposito cittadino.",
             "REVOCA DELLO STATUS DI CITTÀ UFFICIALE": "Lo status di città ufficiale può essere revocato in qualsiasi momento, senza nessun preavviso, se i requisiti non dovessero essere più soddisfatti o se la città non dovesse rispettare il regolamento."
@@ -116,7 +116,7 @@
     "UTILIZZO": "È proibito collegarsi con software non consentito, anche se non si ha intenzione di usarne le funzioni.",
         "RESPONSABILITÀ": "L'utente è responsabile del proprio client: l'utilizzo di software buggato o instabile non è una scusante in caso di danni.",
         "MOD NON ESPLICITATE": "Confidiamo nella buona fede dell'utente, tuttavia il mancato permesso nell'utilizzo di un software non qui elencato o verificabilmente concesso è responsabilità dell'utente.",
-    "LINEE GUIDA": "Generalmente, sono consentiti software che non forniscano alcun tipo di vantaggio o rischio per il server. Mod di carattere puramente prestazionale (come Optifine/Sodium) sono consentite, purché non comportino rischi. Modifiche estetiche come le shaders sono consentite, ma non devono fornire vantaggi. Ovviamente, ogni tipo di software che infranga il regolamento è severamente proibito.",
+        "LINEE GUIDA": "Generalmente, sono consentiti software che non forniscano alcun tipo di vantaggio o rischio per il server. Mod di carattere puramente prestazionale (come Optifine/Sodium) sono consentite, purché non comportino rischi. Modifiche estetiche come le shaders sono consentite, ma non devono fornire vantaggi. Ovviamente, ogni tipo di software che infranga il regolamento è severamente proibito.",
         "CLIENT MINECRAFT": "Sono consentiti: Lunar Client, LabyMod",
         "MOD MINECRAFT": "Sono consentite: Bobby, Distant Horizons, Do a Barrel Roll, LambDynamicLights, Litematica, No Chat Reports, No Telemetry, Xaero's Minimap (Fair-play Edition), Xaero's World Map (e relative dipendenze)."
       }
