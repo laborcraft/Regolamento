@@ -1,5 +1,5 @@
 {
-  "version": "3.1.1.0",
+  "version": "3.1.2.0",
   "date": "25 Febbraio 2025",
   "sections": [
     {
@@ -135,6 +135,7 @@
 	    "JUNIOR BUILDER (1)": "Lo junior builder crea e si occupa delle strutture fisiche del server Minecraft.",
 	    "JUNIOR HELPER (1)": "Lo junior helper ha il compito di occuparsi dei giocatori e aiutarli nelle loro difficoltà.",
 	    "JUNIOR DEVELOPER (1)": "Lo junior developer è colui che si occupa del piano tecnico del server facendo riferimento a un senior developer; può agire autonomamente secondo i permessi assegnatogli in caso di emergenza.",
+	    "ARTIST (1)": "L'Artist è colui che si occupa del piano artistico del server al di fuori del building, occupandosi di progettazione e creazione di asset vari. Il ruolo è unico ma le competenze sono ulteriormente divise nei seguenti sottoruoli, regolati anch'essi dall'articolo 3:\n - writer: si occupa di progettazione e scrittura di quest e dialoghi"
 	    "SENIOR BUILDER (2)": "In aggiunta ai doveri dello junior builder, il senior builder può coordinare gli junior builder e ha maggiori permessi nel gioco.",
 	    "SENIOR HELPER (2)": "In aggiunta ai doveri dello junior helper, il senior helper ha diritto, solo in caso di emergenza e di mancanza di superiori, ad utilizzare i poteri di moderazione. Tutti i provvedimenti presi da un helper devono essere comunicati e revisionati da un moderatore il prima possibile.",
 	    "(SENIOR) SOCIAL MANAGER (2)": "Il social manager si occupa di gestire gli account social del server, della promozione, delle grafiche e occasionalmente del branding. Può moderare nella stessa misura del senior helper.",
